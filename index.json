@@ -1,0 +1,11 @@
+{
+  "org": "unit8co",
+  "repo": "darts",
+  "versions": [
+    {
+      "commit": "dcdde2414f07f13b3bbb095428d9c6cc41492588",
+      "tag": "0.48.1",
+      "parsed_at": "2026-10-17T19:06:48.006784+00:00"
+    }
+  ]
+}
