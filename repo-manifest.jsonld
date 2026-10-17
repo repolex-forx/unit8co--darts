@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/unit8co/darts/commit/dcdde2414f07f13b3bbb095428d9c6cc41492588",
       "git:hexsha": "dcdde2414f07f13b3bbb095428d9c6cc41492588",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.48.1"
     },
     {
